@@ -6,11 +6,11 @@
  * Version:         1.0.0
  * Requires PHP:    8.1
  * Author:          Julian Paul
- * License:         GPL v2 or later
- * License URI:     https://www.gnu.org/licenses/gpl-2.0.html
- * Author URI:      https://github.com/jolle93/fact-um-double-optin-and-admin-approval
- * Plugin URI:      https://github.com/jolle93/fact-um-double-optin-and-admin-approval
- * Update URI:      https://github.com/jolle93/fact-um-double-optin-and-admin-approval
+ * License:         Apache-2.0
+ * License URI:     https://www.apache.org/licenses/LICENSE-2.0
+ * Author URI:      https://github.com/jolle93/um-cleverreach-integration
+ * Plugin URI:      https://github.com/jolle93/um-cleverreach-integration
+ * Update URI:      https://github.com/jolle93/um-cleverreach-integration
  * Text Domain:     ultimate-member
  * Domain Path:     /languages
  * UM version:      2.9.1
